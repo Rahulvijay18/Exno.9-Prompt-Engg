@@ -74,23 +74,59 @@ The **clarity, detail, structure, and style** of the prompt significantly impact
 
 ## 1. Simple Prompts (Basic Prompts):
 
-# “A robot dancing”
+## PROMPT :  “A robot dancing”
+
+## OUTPUT :
+
+
+https://github.com/user-attachments/assets/8fb5ecfd-0b92-46fa-9563-22ce38f0101e
+
+
 
 ## 2. Detailed Prompts (High Quality Prompts)
 
-# “A red sports car driving at high speed on a coastal highway, ocean waves on the side, clear sky, cinematic shot”
+## PROMPT : “A red sports car driving at high speed on a coastal highway, ocean waves on the side, clear sky, cinematic shot”
+
+## OUTPUT :
+
+https://github.com/user-attachments/assets/ec6f29ca-7c05-4ef6-8ef4-3f8d61878923
+
+
 
 ## 3. Style-Based Prompts (Anime, Cartoon, 3D, Realistic, etc.)
 
-# “A claymation character making tea in a small clay kitchen with stop-motion style movements”
+## PROMPT : “A claymation character making tea in a small clay kitchen with stop-motion style movements”
+
+## OUTPUT :
+
+
+https://github.com/user-attachments/assets/f723c076-d570-4f6f-974a-df6600065101
+
+
 
 ## 4. Camera Direction Prompts (For Cinematic Movement)
 
-# “A person standing on a mountain, camera zooms out to show a wide landscape view, cinematic wide shot”
+## PROMPT “A person standing on a mountain, camera zooms out to show a wide landscape view, cinematic wide shot”
+
+## OUTPUT :
+
+
+
+https://github.com/user-attachments/assets/d10946fe-ac22-4a16-a1ee-b7fb10b5d91c
+
+
 
 ## 5. Story-Based / Scene-Based Prompts (Multi-Scene)
 
-# Horror Clip: “Scene 1: Girl enters a dark house. Scene 2: Strange sounds and shadows appear behind her. Scene 3: A ghost suddenly appears in front of her, jumpscare ending.”
+## PROMPT : Horror Clip: “Scene 1: Girl enters a dark house. Scene 2: Strange sounds and shadows appear behind her. Scene 3: A ghost suddenly appears in front of her, jumpscare ending.”
+
+## OUTPUT :
+
+
+
+https://github.com/user-attachments/assets/532c1efe-a696-44fd-b024-c42be0b4dff1
+
+
 
 ---
 
@@ -106,5 +142,6 @@ Therefore, to generate high-quality AI videos, prompts should be detailed, struc
 
 ---
 
-## Result: The Prompt of the above task executed successfully
+## Result: 
+The Prompt of the above task was executed successfully
 
